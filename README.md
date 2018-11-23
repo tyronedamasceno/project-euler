@@ -39,16 +39,31 @@ Repository with codes to solve Project Euler problems
 * [038](https://projecteuler.net/problem=038) - Pandigital multiples
 * [039](https://projecteuler.net/problem=039) - Integer right triangles
 * [040](https://projecteuler.net/problem=040) - Champernowne's constant
+  * String manipulation
 * [042](https://projecteuler.net/problem=042) - Coded triangle numbers
+  * Ad-hoc
 * [043](https://projecteuler.net/problem=043) - Sub-string divisibility
+  * Permutations and strings manipulation
 * [044](https://projecteuler.net/problem=044) - Pentagon number
+  * Implementation, dict comprehension
 * [045](https://projecteuler.net/problem=045) - Triangular, pentagonal, and hexagonal
+  * Dict comprehension
 * [048](https://projecteuler.net/problem=048) - Self powers
+  * Basic implementation, strings manipulation
 * [052](https://projecteuler.net/problem=052) - Permuted multiples
+  * Ad-hoc implementation
 * [053](https://projecteuler.net/problem=053) - Combinatoric selections
+  * Combinatorics implementation
 * [055](https://projecteuler.net/problem=055) - Lychrel number
+* [062](https://projecteuler.net/problem=062) - Cubic permutations
+  * Maths, brute-force
+* [063](https://projecteuler.net/problem=063) - Powerful digit counts
+  * Brute-force
 * [102](https://projecteuler.net/problem=102) - Triangle containment
-* [107] (https://projecteuler.net/problem=107) - Minimal network
+  * Geometry, polygons
+* [107](https://projecteuler.net/problem=107) - Minimal network
   * Minimum spanning tree - Kruskal algorithm
 * [112](https://projecteuler.net/problem=112) - Bouncy numbers
+  * Ad-hoc implementation, strings
 * [206](https://projecteuler.net/problem=206) - Concealed Square
+  * Ad-hoc brute-force
