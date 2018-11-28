@@ -59,6 +59,7 @@ Repository with codes to solve Project Euler problems
   * Maths, brute-force
 * [063](https://projecteuler.net/problem=063) - Powerful digit counts
   * Brute-force
+* [087](https://projecteuler.net/problem=087) - Prime power triples
 * [099](https://projecteuler.net/problem=099) - Largest exponential
   * Fast exponentiation (should be something more efficient)
 * [102](https://projecteuler.net/problem=102) - Triangle containment
